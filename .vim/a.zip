@@ -1,0 +1,11 @@
+--2012-09-15 02:04:07--  http://www.vim.org/scripts/download_script.php?src_id=11296
+正在解析主机 www.vim.org (www.vim.org)... 216.34.181.97
+正在连接 www.vim.org (www.vim.org)|216.34.181.97|:80... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度： 8150 (8.0K) [application/octetstream]
+正在保存至: “download_script.php?src_id=11296”
+
+     0K .......                                               100% 19.4K=0.4s
+
+2012-09-15 02:04:09 (19.4 KB/s) - 已保存 “download_script.php?src_id=11296” [8150/8150])
+

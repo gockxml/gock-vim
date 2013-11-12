@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/gock/github/grunt-upyun/.git'
+let g:netrw_dirhist_2='/home/gock/timehut/webapp/build/partials/panels'
+let g:netrw_dirhist_3='/home/gock/github/timehut.angularjs.org/src/ng'
+let g:netrw_dirhist_4='/home/gock/timehut/album/public'
